@@ -8,6 +8,6 @@ Welcome to my **GiHub**! I'm Carlos (but my friends call me Carlitos 😝 ), I w
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carlosediazv/)
 - 😄 Pronouns: **he/him**
 
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosdiaz-meli&count_private=true&show_icons=true&theme=vue-dark)
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosdiaz-meli&count_private=true&show_icons=true)
 
-[![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdiaz-meli&layout=compact&count_private=true&theme=prussian)](https://github.com/carlosdiaz-meli)
+[![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdiaz-meli&layout=compact&count_private=true)](https://github.com/carlosdiaz-meli)
