@@ -10,4 +10,4 @@ Welcome to my **GiHub**! I'm Carlos (but my friends call me Carlitos 😝 ), I w
 
 ![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosdiaz-meli&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdiaz-meli&layout=compact)](https://github.com/carlosdiaz-meli/github-readme-stats)
+[![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdiaz-meli&layout=compact&count_private=true)](https://github.com/carlosdiaz-meli)
